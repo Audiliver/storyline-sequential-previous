@@ -77,7 +77,7 @@ That means:
 ## Credits
 
 **Research, concept, implementation, and public documentation:**  
-Daniel Menezes
+Daniel Menezes (Audiliver)
 
 This was developed independently as a personal technical research project.
 
